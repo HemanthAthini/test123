@@ -1,9 +1,9 @@
 <?php
 $arrayName = array("hello","world", "demo");
 
-echo $arrayName[0];
 echo $arrayName[1];
 echo $arrayName[2];
+echo $arrayName[0];
 
 echo "<br/>";
 
